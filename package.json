@@ -1,0 +1,18 @@
+{
+  "name": "dataURIfy",
+  "version": "0.0.0",
+  "description": "Convert external assets to data URIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html5",
+    "\"data",
+    "uri\"",
+    "assets",
+    "build"
+  ],
+  "author": "Nathan Witt",
+  "license": "MIT"
+}
