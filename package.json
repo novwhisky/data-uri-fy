@@ -1,10 +1,14 @@
 {
-  "name": "dataURIfy",
+  "name": "data-uri-fy",
   "version": "0.0.0",
   "description": "Convert external assets to data URIs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wittnl/data-uri-fy.git"
   },
   "keywords": [
     "html5",
